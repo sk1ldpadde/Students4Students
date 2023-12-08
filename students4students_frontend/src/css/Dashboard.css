@@ -1,0 +1,128 @@
+/* CSS-Styles for the dashboard */
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.create-ad-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  width: 100%;
+  margin: 20px;
+}
+
+.dashboard-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.create-ad-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.create-ad-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.create-ad-input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 5px 0;
+}
+
+.create-ad-textarea {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 5px 0;
+  height: 100px;
+}
+
+.create-ad-select {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 5px 0;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.create-post-container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  position: relative;
+  margin-top: 20px; /* Abstand zur Navbar */
+}
+
+.close-create-post-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 24px;
+  color: #333;
+  cursor: pointer;
+}
+
+.close-create-post-button:hover {
+  color: #e74c3c;
+}
+
+.dashboard-container {
+  display: flex;
+}
+
+.sidebar {
+  flex: 1;
+  color: #fff;
+  padding: 20px;
+}
+
+.main-content {
+  flex: 5;
+  padding: 20px;
+}
+
+@media (max-width: 1400px) {
+  .sidebar {
+    display: none;
+  }
+}

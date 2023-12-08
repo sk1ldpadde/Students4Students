@@ -1,0 +1,62 @@
+[
+  {
+    "model": "students4students.User",
+    "pk": 1,
+    "fields": {
+      "username": "admin_marc_skild",
+      "first_name": "marc",
+      "surname": "test",
+      "age": "22",
+      "semester": "3",
+      "partner_company": "Mercedes-Benz",
+      "email": "inf22083@lehre.dhbw-stuttgart.de",
+      "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+      "degree_id": "30"
+    }
+  },
+  {
+    "model": "students4students.User",
+    "pk": 2,
+    "fields": {
+      "username": "admin_daniel_duesen",
+      "first_name": "daniel",
+      "surname": "test",
+      "age": "22",
+      "semester": "3",
+      "partner_company": "stihl",
+      "email": "inf22045@lehre.dhbw-stuttgart.de",
+      "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+      "degree_id": "30"
+    }
+  },
+  {
+    "model": "students4students.User",
+    "pk": 3,
+    "fields": {
+      "username": "admin_daniel_dhbwknk",
+      "first_name": "daniel",
+      "surname": "test",
+      "age": "22",
+      "semester": "3",
+      "partner_company": "Mercedes-Benz",
+      "email": "inf22111@lehre.dhbw-stuttgart.de",
+      "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+      "degree_id": "30"
+    }
+  },
+  {
+    "model": "students4students.User",
+    "pk": 4,
+    "fields": {
+      "username": "admin_amanda",
+      "first_name": "Amanda",
+      "surname": "test",
+      "age": "21",
+      "semester": "4",
+      "partner_company": "Mercedes-Benz",
+      "email": "inf22022@lehre.dhbw-stuttgart.de",
+      "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+      "degree_id": "30"
+    }
+  }
+]

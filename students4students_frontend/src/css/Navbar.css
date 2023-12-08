@@ -1,0 +1,50 @@
+/* CSS-Styles of the Navbar */
+html,
+body {
+  overflow-x: hidden;
+}
+
+body {
+  padding-top: 40px;
+}
+
+.company-logo {
+  border-radius: 15%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease-in-out;
+  padding: 20px;
+}
+
+.company-logo:hover {
+  transform: scale(1.1);
+}
+
+.navbar-element {
+  transition: transform 0.1s ease-in-out;
+}
+
+.navbar-element:hover {
+  transform: scale(1.1);
+}
+
+@media screen and (min-width: 1400px) {
+  .company-logo {
+    background: url("./src/assets/background_landing_page.jpg") right/cover
+      no-repeat;
+    border-radius: 15%;
+    font-size: 36px;
+    font-weight: bold;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .company-logo:hover {
+    transform: scale(1.1);
+  }
+
+  .navbar-element {
+    transition: transform 0.1s ease-in-out;
+    display: none;
+  }
+}

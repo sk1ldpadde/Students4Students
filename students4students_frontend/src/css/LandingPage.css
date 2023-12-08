@@ -1,0 +1,40 @@
+/* CSS-Styles of the LandingPage */
+.auffaellige-ueberschrift {
+  font-size: 20px;
+  font-weight: bold;
+  animation: glow 2s ease-in-out infinite;
+  transition: text-shadow 0.3s ease-in-out;
+}
+
+.info {
+  font-size: 16px;
+}
+
+.custom-background {
+  background-image: url("../src/assets/background_landing_page.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.info-bg {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+@media screen and (min-width: 1000px) {
+  .pic-l {
+    height: "150px";
+  }
+  .auffaellige-ueberschrift {
+    font-size: 30px;
+    font-weight: bold;
+    animation: glow 2s ease-in-out infinite;
+    transition: text-shadow 0.3s ease-in-out;
+  }
+
+  .info {
+    font-size: 20px;
+  }
+  .custom-background {
+    background-size: cover;
+  }
+}

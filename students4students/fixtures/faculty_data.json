@@ -1,0 +1,30 @@
+[
+      {
+            "model": "students4students.Faculty",
+            "pk": 1,
+            "fields": {
+                  "name": "Wirtschaft"
+            }
+      },
+      {
+            "model": "students4students.Faculty",
+            "pk": 2,
+            "fields": {
+                  "name": "Technik"
+            }
+      },
+      {
+            "model": "students4students.Faculty",
+            "pk": 3,
+            "fields": {
+                  "name": "Sozialwesen"
+            }
+      },
+      {
+            "model": "students4students.Faculty",
+            "pk": 4,
+            "fields": {
+                  "name": "Gesundheit"
+            }
+      }
+]

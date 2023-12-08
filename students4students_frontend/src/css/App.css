@@ -1,0 +1,26 @@
+/* Import of tailwind into the project */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-background {
+  background-image: url("../src/assets/background_landing_page.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.full-height {
+  height: 70vh;
+}
+
+.reg-background {
+  background-image: url("../src/assets/background_landing_page.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.feed-background {
+  background-image: url("../src/assets/background_b_w.jpeg");
+  background-size: cover;
+  background-repeat: repeat;
+}

@@ -1,0 +1,66 @@
+[
+      {
+            "model": "students4students.Category",
+            "pk": 1,
+            "fields": {
+                  "name": "Allgemein",
+                  "color": "#239641"
+            }
+      },
+      {
+            "model": "students4students.Category",
+            "pk": 2,
+            "fields": {
+                  "name": "Wohnen",
+                  "color": "#946326"
+            }
+      },
+      {
+            "model": "students4students.Category",
+            "pk": 3,
+            "fields": {
+                  "name": "Party",
+                  "color": "#ff5121"
+            }
+      },
+      {
+            "model": "students4students.Category",
+            "pk": 4,
+            "fields": {
+                  "name": "Lernen",
+                  "color": "#357ddb"
+            }
+      },
+      {
+            "model": "students4students.Category",
+            "pk": 5,
+            "fields": {
+                  "name": "Nachhilfe",
+                  "color": "#712678"
+            }
+      },
+      {
+            "model": "students4students.Category",
+            "pk": 6,
+            "fields": {
+                  "name": "Sharing",
+                  "color": "#8cffa9"
+            }
+      },
+      {
+            "model": "students4students.Category",
+            "pk": 7,
+            "fields": {
+                  "name": "Info",
+                  "color": "#424242"
+            }
+      },
+      {
+            "model": "students4students.Category",
+            "pk": 8,
+            "fields": {
+                  "name": "Anfrage",
+                  "color": "#ccbd70"
+            }
+      }
+]

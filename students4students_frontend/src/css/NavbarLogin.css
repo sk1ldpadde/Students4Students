@@ -1,0 +1,32 @@
+/* CSS-Styles of the Navbar, when the user is not logged in  */
+html,
+body {
+  overflow-x: hidden;
+}
+
+body {
+  padding-top: 40px;
+}
+
+.company-logo:hover {
+  transform: scale(1.1);
+}
+
+.navbar-elem {
+  transition: transform 0.1s ease-in-out;
+}
+
+.navbar-elem:hover {
+  transform: scale(1.1);
+}
+
+.company-logo {
+  background: url("./src/assets/background_landing_page.jpg") right/cover
+    no-repeat;
+  border-radius: 15%;
+  font-size: 36px;
+  font-weight: bold;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease-in-out;
+}

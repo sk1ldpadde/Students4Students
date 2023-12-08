@@ -1,0 +1,401 @@
+[
+      {
+            "model": "students4students.Degree",
+            "pk": 1,
+            "fields": {
+                  "name": "BWL-Bank",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 2,
+            "fields": {
+                  "name": "BWL-Digital Business Management",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 3,
+            "fields": {
+                  "name": "BWL-Digital Commerce Management",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 4,
+            "fields": {
+                  "name": "BWL-Dienstleistungsmanagement Schwerpunkt Consulting & Sales",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 5,
+            "fields": {
+                  "name": "BWL-Dienstleistungsmanagement Schwerpunkt International Services Management",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 6,
+            "fields": {
+                  "name": "BWL-Dienstleistungsmanagement Schwerpunkt Logistik- und Supply Chain Management",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 7,
+            "fields": {
+                  "name": "BWL-Dienstleistungsmanagement Schwerpunkt Media, Vertrieb und Kommunikation (MVK)",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 8,
+            "fields": {
+                  "name": "BWL-Dienstleistungsmanagement Schwerpunkt Non-Profit-Organisationen, Verbände und Stiftungen",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 9,
+            "fields": {
+                  "name": "BWL-Dienstleistungsmanagement Schwerpunkt Sportmanagement",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 10,
+            "fields": {
+                  "name": "BWL-Finanzdienstleistungen",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 11,
+            "fields": {
+                  "name": "BWL-Gesundheits­management",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 12,
+            "fields": {
+                  "name": "BWL-Handel",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 13,
+            "fields": {
+                  "name": "BWL-Handwerk",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 14,
+            "fields": {
+                  "name": "BWL-Immobilienwirtschaft",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 15,
+            "fields": {
+                  "name": "BWL-Industrie",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 16,
+            "fields": {
+                  "name": "BWL-International Business",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 17,
+            "fields": {
+                  "name": "BWL-Versicherung",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 18,
+            "fields": {
+                  "name": "RSW-Accounting & Controlling",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 19,
+            "fields": {
+                  "name": "RSW-Steuern und Prüfungswesen",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 20,
+            "fields": {
+                  "name": "RSW-Wirtschaftsprüfung",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 21,
+            "fields": {
+                  "name": "RSW-Wirtschafts- und Steuerrecht",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 22,
+            "fields": {
+                  "name": "Wirtschaftsinformatik-Application Management",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 23,
+            "fields": {
+                  "name": "RWirtschaftsinformatik-Data Science",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 24,
+            "fields": {
+                  "name": "Wirtschaftsinformatik-IMBIT",
+                  "faculty": 1
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 25,
+            "fields": {
+                  "name": "Wirtschaftsinformatik-Sales and Consulting",
+                  "faculty": 1
+            }
+      },
+      
+
+
+
+
+
+
+
+
+
+      {
+            "model": "students4students.Degree",
+            "pk": 26,
+            "fields": {
+                  "name": "Elektrotechnik - Automation",
+                  "faculty": 2
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 27,
+            "fields": {
+                  "name": "Elektrotechnik - Elektronik",
+                  "faculty": 2
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 28,
+            "fields": {
+                  "name": "Elektrotechnik - Nachrichtentechnik",
+                  "faculty": 2
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 29,
+            "fields": {
+                  "name": "Embedded Systems - General Engineering",
+                  "faculty": 2
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 30,
+            "fields": {
+                  "name": "Informatik",
+                  "faculty": 2
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 31,
+            "fields": {
+                  "name": "Informatik - Informationstechnik",
+                  "faculty": 2
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 32,
+            "fields": {
+                  "name": "Informatik - IT-Automotive",
+                  "faculty": 2
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 33,
+            "fields": {
+                  "name": "Informatik - New Study (Digital Bachelor Programme)",
+                  "faculty": 2
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 34,
+            "fields": {
+                  "name": "Maschinenbau - Fahrzeug-System-Engineering",
+                  "faculty": 2
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 35,
+            "fields": {
+                  "name": "Maschinenbau - Konstruktion und Entwicklung",
+                  "faculty": 2
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 36,
+            "fields": {
+                  "name": "Maschinenbau - Produktionstechnik",
+                  "faculty": 2
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 37,
+            "fields": {
+                  "name": "Mechatronik - Allgemeine Mechatronik",
+                  "faculty": 2
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 38,
+            "fields": {
+                  "name": "Mechatronik - Fahrzeugsystemtechnik und Elektromobilität",
+                  "faculty": 2
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 39,
+            "fields": {
+                  "name": "Wirtschaftsingenieurwesen - Elektrotechnik",
+                  "faculty": 2
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 40,
+            "fields": {
+                  "name": "Wirtschaftsingenieurwesen - Facility Management",
+                  "faculty": 2
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 41,
+            "fields": {
+                  "name": "Wirtschaftsingenieurwesen - Maschinenbau",
+                  "faculty": 2
+            }
+      },
+      
+
+
+
+
+
+
+
+
+
+      {
+            "model": "students4students.Degree",
+            "pk": 42,
+            "fields": {
+                  "name": "Soziale Arbeit",
+                  "faculty": 3
+            }
+      },
+        
+
+
+
+
+
+
+
+
+
+      {
+            "model": "students4students.Degree",
+            "pk": 43,
+            "fields": {
+                  "name": "Angewandte Gesundheits- und Pflegewissenschaften",
+                  "faculty": 4
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 44,
+            "fields": {
+                  "name": "Angewandte Hebammenwissenschaft",
+                  "faculty": 4
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 45,
+            "fields": {
+                  "name": "Angewandte Hebammenwissenschaft - berufsintegrierend",
+                  "faculty": 4
+            }
+      },
+      {
+            "model": "students4students.Degree",
+            "pk": 46,
+            "fields": {
+                  "name": "Angewandte Pflegewissenschaft",
+                  "faculty": 4
+            }
+      }
+      
+]

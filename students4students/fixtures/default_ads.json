@@ -1,0 +1,158 @@
+[
+  {
+    "model": "students4students.Ad",
+    "pk": 1,
+    "fields": {
+      "user": "2",
+      "category": 8,
+      "title": "Umzughelfer gesucht!",
+      "description": "Hallo ich bin Amanda und suche für meinen Umzug am 01.01.2019 noch 2 Umzugshelfer. Ich zahle 10€ pro Stunde. Der Umzug wird ca. 4 Stunden dauern. Ich freue mich auf eure Nachrichten!",
+      "image": "",
+      "likes": "10",
+      "created_at": "2018-12-01T12:30:00Z"
+    }
+  },
+  {
+    "model": "students4students.Ad",
+    "pk": 2,
+    "fields": {
+      "user": "2",
+      "category": 6,
+      "title": "Bierkisten zu verschenken",
+      "description": "Ich habe 10 Bierkisten (mit Inhalt) zu verschenken. Die Kisten sind in einem guten Zustand. Ich freue mich auf eure Nachrichten!",
+      "image": "",
+      "likes": "100",
+      "created_at": "2018-12-01T12:00:20Z"
+    }
+  },
+  {
+    "model": "students4students.Ad",
+    "pk": 3,
+    "fields": {
+      "user": "1",
+      "category": 3,
+      "title": "Biertrinker gesucht",
+      "description": "Ich suche einen Biertrinker, der mit mir zusammen 10 Kisten Bier trinkt. Ich zahle 10€ pro Kiste. Ich freue mich auf eure Nachrichten!",
+      "image": "",
+      "likes": "33",
+      "created_at": "2018-12-01T12:00:55Z"
+    }
+  },
+  {
+    "model": "students4students.Ad",
+    "pk": 4,
+    "fields": {
+      "user": "3",
+      "category": 1,
+      "title": "Straßenfeger gesucht",
+      "description": "Bei mir haben leute vor meiner Tür vor 10 Kisten Bier zu trinken. Ich suche jemanden, der mir schonmal zusagt den Müll wegzumachen!",
+      "image": "",
+      "likes": "4",
+      "created_at": "2018-12-01T12:00:10Z"
+    }
+  },
+  {
+    "model": "students4students.Ad",
+    "pk": 5,
+    "fields": {
+      "user": "4",
+      "category": 5,
+      "title": "FSA Nachhilfe gesucht",
+      "description": "Hallo ich suche jemanden, der mir bei der FSA Nachhilfe geben kann. Ich zahle 100€ pro Stunde. Ich freue mich auf eure Nachrichten!",
+      "image": "",
+      "likes": "10",
+      "created_at": "2018-12-01T12:00:01Z"
+    }
+  },
+  {
+    "model": "students4students.Ad",
+    "pk": 6,
+    "fields": {
+      "user": "1",
+      "category": 8,
+      "title": "Geld Gesucht!",
+      "description": "Hallo! Ich suche nach Geld, dass ich für Bier ausgeben kann. Spenden sind erwünscht!",
+      "image": "",
+      "likes": "133",
+      "created_at": "2018-12-01T12:10:00Z"
+    }
+  },
+  {
+    "model": "students4students.Ad",
+    "pk": 7,
+    "fields": {
+      "user": "2",
+      "category": 8,
+      "title": "Webentwickler gesucht!",
+      "description": "Wir haben hier so ein Webprojekt, dass wir gerne umgesetzt hätten. Wir suchen jemanden, der uns dabei helfen kann. Wir zahlen nix, aber du kannst ja bier mit uns trinken!",
+      "image": "",
+      "likes": "10",
+      "created_at": "2018-12-01T12:07:00Z"
+    }
+  },
+  {
+    "model": "students4students.Ad",
+    "pk": 8,
+    "fields": {
+      "user": "1",
+      "category": 8,
+      "title": "Schlafplatz gesucht!",
+      "description": "Ich suche einen Schlafplatz für die Nacht. Ich zahle 10€ pro Nacht. Ich freue mich auf schöne Brücken!",
+      "image": "",
+      "likes": "11",
+      "created_at": "2018-12-01T12:06:00Z"
+    }
+  },
+  {
+    "model": "students4students.Ad",
+    "pk": 9,
+    "fields": {
+      "user": "2",
+      "category": 3,
+      "title": "Party!",
+      "description": "Die DHBW hat zu wenig Parties. Ich suche jemanden, der mit mir eine Party organisiert.",
+      "image": "",
+      "likes": "10",
+      "created_at": "2018-12-01T12:05:00Z"
+    }
+  },
+  {
+    "model": "students4students.Ad",
+    "pk": 10,
+    "fields": {
+      "user": "4",
+      "category": 1,
+      "title": "Gute Mensa gesucht!",
+      "description": "Mensa Revolution! WIR BRAUCHEN EINE BESSERE MENSA!",
+      "image": "",
+      "likes": "501",
+      "created_at": "2018-12-01T12:01:00Z"
+    }
+  },
+  {
+    "model": "students4students.Ad",
+    "pk": 11,
+    "fields": {
+      "user": "3",
+      "category": 8,
+      "title": "Biete Nachhilfe für Informatik 4. Semester an!",
+      "description": "Ich biete nachhilfe für Informatik 4. Semester an. Ich möchte 100 Euro pro Stunde.",
+      "image": "",
+      "likes": "0",
+      "created_at": "2018-12-03T12:00:00Z"
+    }
+  },
+  {
+    "model": "students4students.Ad",
+    "pk": 12,
+    "fields": {
+      "user": "3",
+      "category": 8,
+      "title": "Backendentwickler gesucht!",
+      "description": "Wir suchen einen Backendentwickler für unser Webprojekt. Wir zahlen 1 Bier pro Userstory.",
+      "image": "",
+      "likes": "101",
+      "created_at": "2018-12-02T12:00:00Z"
+    }
+  }
+]

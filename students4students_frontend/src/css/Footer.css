@@ -1,0 +1,13 @@
+/* CSS-Styles of the footer */
+.hide-over-1400 {
+  display: none;
+}
+
+@media (max-width: 1400px) {
+  .hide-below-1400 {
+    display: none;
+  }
+  .hide-over-1400 {
+    display: block;
+  }
+}
